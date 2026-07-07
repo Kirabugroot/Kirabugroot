@@ -1,4 +1,4 @@
-![Cybersecurity Banner](images.jpg)
+![Cybersecurity Banner](github-header-banner(1).png)
 
 # 🛡️ Cybersecurity Research Portfolio
 
