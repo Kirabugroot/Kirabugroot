@@ -1,73 +1,115 @@
-# 🛡️ My Cybersecurity Writeups
+# 🛡️ Cybersecurity Research Portfolio
 
-Welcome to my cybersecurity research repository.
+Welcome to my cybersecurity research portfolio.
 
-I'm an **18-year-old bug hunter** passionate about **offensive security**, web application security, and vulnerability research.  
-This repository contains my personal writeups, technical notes, and security research as I continue improving my skills.
+I'm an **18-year-old bug hunter** passionate about **offensive security**, web application security, and vulnerability research.
+
+This repository contains my security writeups, technical analysis, and learning notes as I continue developing my skills in cybersecurity and penetration testing.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔎 Interested in **Bug Bounty & Web Security**
-- 🕵️ Learning **Offensive Security methodologies**
-- 🌐 Focus areas:
-  - Web Application Security
-  - Authentication & Authorization flaws
-  - API Security
-  - Vulnerability Research
+- 🔎 Bug Bounty Hunter
+- 🕵️ Offensive Security Learner
+- 🌐 Web Security Enthusiast
+- 🎯 Aspiring Penetration Tester
 
-My goal is to continuously learn, share knowledge, and document my journey in cybersecurity.
+My main areas of interest:
+
+- Web Application Security
+- Authentication & Authorization vulnerabilities
+- API Security
+- OAuth 2.0 Security
+- Vulnerability Research
+- Security Testing Methodologies
+
+My goal is to become a professional penetration tester and continuously improve through practical research, labs, and responsible disclosure.
 
 ---
 
-## 📚 Writeups
+## 📚 Security Research & Writeups
 
 | Research | Description |
 |-----------|-------------|
-| 🔐 **OAuth Security Misconfiguration** | Analysis of common OAuth implementation mistakes and potential security impacts |
-| 🌐 **Web Security Research** | Various findings, experiments, and security research related to web applications |
+| 🔐 OAuth 2.0 Security Research | Analysis of OAuth implementation weaknesses, PKCE security, and authentication flow issues |
+| 🌐 Web Security Research | Vulnerability analysis, experiments, and technical security notes |
+
+---
+
+## 🏆 Bug Bounty Experience
+
+- Accepted vulnerability report through responsible disclosure
+- Experience analyzing authentication and authorization security issues
+- Security research focused on web applications
 
 ---
 
 ## 🧰 Skills & Tools
 
 ### Security
+
 - Web Application Pentesting
-- Vulnerability Assessment
+- Vulnerability Research
 - Authentication Testing
-- Manual Code Review
+- Authorization Testing
+- Manual Security Testing
+- Security Analysis
 
 ### Tools
+
 - Burp Suite
 - Nmap
 - OWASP ZAP
 - Linux
-- Custom Security Scripts
+- Git
+- Python (Security Automation)
 
 ---
 
 ## 📈 Learning Journey
 
-This repository is a documentation of my growth in cybersecurity.
+This repository documents my growth in cybersecurity.
 
-Every writeup represents:
-- A vulnerability I studied
+Each writeup represents:
+
+- A vulnerability I researched
+- A security concept I studied
 - A technique I practiced
 - A lesson learned
 
+Currently improving my skills in:
+
+- OWASP Top 10
+- Web penetration testing
+- API security
+- OAuth security
+- Python scripting
+- Networking fundamentals
+
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Responsible Disclosure
 
-All research and testing documented here is performed for **educational purposes** and on systems where I have proper authorization.
+All research and testing documented here is performed for educational purposes and on systems where I have proper authorization.
+
+Sensitive information is removed when necessary to respect affected organizations.
 
 Unauthorized access or testing against systems without permission is illegal.
 
 ---
 
-## 📫 Contact
+## 🔗 Links
 
-Feel free to connect or discuss cybersecurity topics with me.
+GitHub:
+https://github.com/Kirabugroot
 
-⭐ If you find my research useful, consider starring the repository!
+Twitter/X:
+https://x.com/Kira_root
+
+YesWeHack:
+https://yeswehack.com/hunters/kira-root
+
+---
+
+⭐ More security research and writeups will be added as I continue my cybersecurity journey.
