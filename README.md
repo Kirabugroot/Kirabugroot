@@ -45,27 +45,26 @@ My goal is to become a professional penetration tester and continuously improve 
 
 ---
 
-## 🧰 Skills & Tools
+# 🧰 Skills & Technologies
 
-### Security
+## Programming Languages
 
-- Web Application Pentesting
-- Vulnerability Research
-- Authentication Testing
-- Authorization Testing
-- Manual Security Testing
-- Security Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools
+## Cybersecurity
 
-- Burp Suite
-- Nmap
-- OWASP ZAP
-- Linux
-- Git
-- Python (Security Automation)
+![Web Security](https://img.shields.io/badge/Web%20Security-Research-red?style=for-the-badge)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunter-orange?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Pentesting-Learning-black?style=for-the-badge)
 
----
+## Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Security-blue?style=for-the-badge)
 
 ## 📈 Learning Journey
 
