@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Cybersecurity Banner" src="assets/banner-light.png">
-</picture>
+![Cybersecurity Banner](images.png)
 
 # 🛡️ Cybersecurity Research Portfolio
 
