@@ -1,4 +1,4 @@
-![Cybersecurity Banner](images.png)
+![Cybersecurity Banner](Logo_YesWeHack_2023.png)
 # 🛡️ Cybersecurity Research Portfolio
 
 Welcome to my cybersecurity research portfolio.
