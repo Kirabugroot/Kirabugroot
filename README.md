@@ -47,6 +47,30 @@ My goal is to become a professional penetration tester and continuously improve 
 
 ---
 
+# 📂 Featured Projects
+
+## 🔐 Bug Bounty Writeups
+
+Security research reports and vulnerability analysis.
+
+➡️ https://github.com/Kirabugroot/bug-bounty-writeups
+
+
+## 📚 Cybersecurity Notes
+
+My personal cybersecurity learning documentation.
+
+➡️ https://github.com/Kirabugroot/cybersecurity-notes
+
+
+## 🧰 Security Tools
+
+Security scripts and automation projects.
+
+➡️ https://github.com/Kirabugroot/security-tools
+
+---
+
 # 🧰 Skills & Technologies
 
 ## Programming Languages
