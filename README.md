@@ -110,5 +110,9 @@ YesWeHack:
 https://yeswehack.com/hunters/kira-root
 
 ---
+# 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirabugroot&show_icons=true&theme=dark)
+
+---
 ⭐ More security research and writeups will be added as I continue my cybersecurity journey.
