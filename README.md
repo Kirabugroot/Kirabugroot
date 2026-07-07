@@ -1,4 +1,9 @@
-![Cybersecurity Banner](Logo_YesWeHack_2023.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="Cybersecurity Banner" src="assets/banner-light.png">
+</picture>
+
 # 🛡️ Cybersecurity Research Portfolio
 
 Welcome to my cybersecurity research portfolio.
