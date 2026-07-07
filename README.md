@@ -1,4 +1,4 @@
-![Cybersecurity Banner](images.png)
+![Cybersecurity Banner](images.jpg)
 
 # 🛡️ Cybersecurity Research Portfolio
 
